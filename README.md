@@ -47,8 +47,7 @@ To get the frontend up and running, here's your roadmap:
 
 1. Navigate to the `frontend` directory.
 2. Install dependencies with `npm install`.
-3. Customize the API URL in the `src/app/api.js` file, if needed.
-4. Launch the development server with `npm start`.
+3. Launch the development server with `npm start`.
 
 ## 🌈 Usage
 
